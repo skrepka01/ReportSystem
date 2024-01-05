@@ -1,0 +1,8 @@
+name: ReportSystem
+version: '${project.version}'
+main: ry.reportsystem.ReportSystem
+api-version: '1.16'
+commands:
+  report:
+  report_list:
+
